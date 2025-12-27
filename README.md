@@ -1,2 +1,2 @@
 # CardiacMamba
-CardiacMamba: A Multimodal RGB-RF Fusion Framework with State Space Models for Remote Physiological Measurement
+CardiacMamba: Bidirectional RGB-RF Fusion with State SpaceModels for Remote Physiological Measurement
